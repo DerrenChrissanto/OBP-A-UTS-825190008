@@ -2,7 +2,7 @@ import java.io.FileReader;
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
-
+    
         System.out.println("============================================");
         System.out.println("UTS OBP");
         System.out.println("Nama  : Derren Chrissanto");
@@ -76,6 +76,7 @@ public class Main {
         System.out.print("Choose The Menu That You Want : ");
         int choose = sc.nextInt();
 
+
         switch (choose) {
             case 1:
                 System.out.println("1. Bulbasaur");
@@ -103,7 +104,7 @@ public class Main {
                 System.out.println("23. Dracozolt");
                 System.out.println("24. Zarude");
                 System.out.println("25. Exit MiniDex");
-
+                System.out.println();
                 System.out.print("Input Number That You Want To See : ");
                 int pilihan = sc.nextInt();
 
@@ -332,8 +333,9 @@ public class Main {
                 default:
                     System.out.println("ERROR ERROR ERROR ERROR ERROR");
                     break;
-
-                }
+            }   System.out.println();
+                System.out.println("Thankyou For Using This Minidex");
+                return;
             case 2:
                 System.out.println("Available Now");
                 System.out.println("1.Pikachu Male");
@@ -374,5 +376,8 @@ public class Main {
                 System.out.println("ERROR ERROR ERROR ERROR ERROR");
                 break;
             }
+            System.out.println();
+            System.out.println("Thankyou For Using This Minidex");
+            return;
         }
     }
