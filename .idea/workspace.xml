@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e643b86e-8c03-4f9b-beab-1f6c68242cf5" name="Default Changelist" comment="Repository">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="ProjectId" id="1idFJ6rjvIPXhscj44GURhNh5N3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/src/Pokemon.java&#10;C:/Users/DerrenChrissanto/Desktop/UTS/src/Main.java&#10;C:/Users/DerrenChrissanto/Desktop/UTS/.gitignore&#10;C:/Users/DerrenChrissanto/Desktop/UTS/src/BlackMarket.java&#10;C:/Users/DerrenChrissanto/Desktop/UTS/src/Pokedex.java" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="UTS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e643b86e-8c03-4f9b-beab-1f6c68242cf5" name="Default Changelist" comment="" />
+      <created>1602229498177</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602229498177</updated>
+      <workItem from="1602229504262" duration="432000" />
+      <workItem from="1602260346529" duration="593000" />
+      <workItem from="1602309055748" duration="668000" />
+      <workItem from="1602399891929" duration="8956000" />
+      <workItem from="1602485978549" duration="113000" />
+      <workItem from="1602486518498" duration="11480000" />
+      <workItem from="1602571690722" duration="42000" />
+      <workItem from="1602690740801" duration="71000" />
+      <workItem from="1602921501796" duration="2951000" />
+      <workItem from="1602924987078" duration="34000" />
+      <workItem from="1603010027822" duration="252000" />
+      <workItem from="1603052868817" duration="2351000" />
+      <workItem from="1603097148017" duration="1025000" />
+    </task>
+    <task id="LOCAL-00001" summary="Repository">
+      <created>1602923174142</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602923174142</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Repository">
+      <created>1602924312681</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602924312681</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Repository">
+      <created>1603010187861</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603010187861</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Repository">
+      <created>1603097847195</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603097847195</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Repository">
+      <created>1603098066647</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1603098066647</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Repository" />
+    <option name="LAST_COMMIT_MESSAGE" value="Repository" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1602229641622">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1602229641622" />
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1602496199580">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1602496199580" />
+    <state x="551" y="303" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1602404570147">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="551" y="303" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1602404570147" />
+    <state x="528" y="282" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1602416202958">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="528" y="282" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1602416202958" />
+    <state x="605" y="0" key="CommitChangelistDialog2" timestamp="1603097923778">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="605" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1603097923778" />
+    <state x="147" y="65" key="DiffContextDialog" timestamp="1602924059476">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="147" y="65" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1602924059476" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1602921760674">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602921760674" />
+    <state x="647" y="310" key="Github.ShareDialog" timestamp="1602922076130">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="647" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1602922076130" />
+    <state width="1493" height="622" key="GridCell.Tab.0.bottom" timestamp="1603097935584">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="622" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603097935584" />
+    <state width="1493" height="622" key="GridCell.Tab.0.center" timestamp="1603097935584">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="622" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603097935584" />
+    <state width="1493" height="622" key="GridCell.Tab.0.left" timestamp="1603097935583">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="622" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603097935583" />
+    <state width="1493" height="622" key="GridCell.Tab.0.right" timestamp="1603097935584">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="622" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603097935584" />
+    <state x="563" y="115" key="RollbackChangesDialog" timestamp="1602923888010">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="563" y="115" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602923888010" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1603097853317">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1603097853317" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602924167636">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1602924167636" />
+    <state x="570" y="319" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1602924041750">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="570" y="319" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602924041750" />
+    <state x="569" y="307" key="git4idea.ui.GitResetDialog" timestamp="1602923800970">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="569" y="307" key="git4idea.ui.GitResetDialog/0.0.1536.824@0.0.1536.824" timestamp="1602923800970" />
+  </component>
+</project>
