@@ -376,8 +376,5 @@ public class Main {
                 System.out.println("ERROR ERROR ERROR ERROR ERROR");
                 break;
             }
-            System.out.println();
-            System.out.println("Thankyou For Using This Minidex");
-            return;
         }
     }
